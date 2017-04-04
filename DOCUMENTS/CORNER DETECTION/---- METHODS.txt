@@ -1,0 +1,4 @@
+Harris corner detct
+
+
+the standard corner() function in matlab
